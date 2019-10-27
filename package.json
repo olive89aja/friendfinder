@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "This is to create a json package",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olive89aja/friendfinder.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "app"
+  ],
+  "author": "OA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olive89aja/friendfinder/issues"
+  },
+  "homepage": "https://github.com/olive89aja/friendfinder#readme"
+}
