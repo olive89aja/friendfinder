@@ -16,8 +16,8 @@ var friendsA = [
 
         ]
 
-    }
-[
+    },
+
 {
     name : "Olivier",
     photo : "https://i.ibb.co/37R2nWr/portrait2.jpg",
@@ -32,10 +32,10 @@ var friendsA = [
             "5",
             "3",
             "3"
-
         ]
 
-
 }
-]
-]
+
+];
+
+module.exports = friendsA;
